@@ -10,7 +10,7 @@ provider has been developed using VC++. The second part is the mobile app which 
 developing the mobile app. The third component is a Configurator which stores user's credentials(user + domain + password) in the system. User credentials 
 will be encrypted before storing. The component is developed using VC++. 
 
-Due to time limitations and need of having a very first version of the project, the first version  uses a hard-coded symmetric key for generating one time passwords and encrypting user's credentials. It also only supports one user int he system.  In the next versions, RSA keys and digital certificates will be
+Due to time limitations and need of having a very first version of the project, the first version  uses a hard-coded symmetric key for generating one time passwords and encrypting user's credentials and it only supports single user.  In the next versions, RSA keys and digital certificates will be
 used for generating the code and encryption of users' credential.
 
 ## Getting Started
