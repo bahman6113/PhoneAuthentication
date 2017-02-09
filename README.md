@@ -1,4 +1,4 @@
-# Project Title
+# Windows Authentication Using Mobile App
 
 Phone authenticator is a project developed for two-factor authentication under Windows OS(Windows 7 and higher versions are supported). The idea
 behind the project is like this. The user wants to login into his/her system. The system will show a randomly generate string(nonce) to the user.
